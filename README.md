@@ -1,2 +1,3 @@
 # Slick
-轮播插件
+
+jQuery 轮播插件
